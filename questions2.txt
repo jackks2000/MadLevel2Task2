@@ -1,0 +1,26 @@
+
+What is the difference of a staggered grid comparing to a normal grid?
+- bij een staggered grid kun je elke grid een apparte groote/vorm geven.
+
+What is the purpose of logcat? 
+-  het laat system messages zien die op dat moment van toepassing zijn. 
+
+What kind of gestures are available?
+- click, swipe, drag 
+
+What was the predecessor of the recyclerview?
+- listview
+
+What is the difference between a Toast and Snackbar ?
+- een toast is niet beschikbaar voor user interactie, en een snackbar wel. 
+
+
+What is the purpose of the existence of “optionals” (represented by the “?” mark) in the Kotlin language? And what does the “!!” mark mean?
+- ? betekent dat een waarde null kan zijn. !! betekent dat een variabele absuluut gee null kan zijn en dat er een nulpointer komt als dit wel zo is.
+
+What is the purpose of a “data class” in Kotlin?
+- hold data and no other functionalities
+
+What is a “companion object” in Kotlin? Explain the difference (if any) with a “static final” and with a “val”, and when to use which constant type.
+Explain what “StaggeredGridLayout” is.
+- companion object can fill a data class with data
